@@ -1,4 +1,10 @@
 ![image](https://github.com/zf-labo/ox_inventory-2.34.3-prodigystyle/assets/48424078/4f8dbeb3-cdcd-49c6-bac0-c5981f1510a9)
+##### The whiteback is the sky and not a whitebackground.
+## You need to build the code. To do so, open a terminal in web/ and run these 2 commands
+`npm i`
+`npm run build`
+
+
 <div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
 
 # Framework
